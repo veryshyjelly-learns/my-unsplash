@@ -32,7 +32,7 @@ My-Unsplash is a web application that allows users to upload, view, and delete p
 1. Clone the repository:
 
 ```shell
-   git clone https://github.com/veryshyjelly/My-Unsplash.git
+   git clone https://github.com/veryshyjelly-learns/my-unsplash.git
    cd my-unsplash
 ```
 
@@ -66,7 +66,7 @@ My-Unsplash is a web application that allows users to upload, view, and delete p
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
 ### License
-[Apache License](github.com/veryshyjelly/My-Unsplash/LICENSE)
+[Apache License](github.com/veryshyjelly-learns/my-unsplash/LICENSE)
 
 ### Acknowledgments
 - This project was inspired by the Unsplash website
